@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+}
+
+.headerLogo {
+    font-size: 50px;
+    font-weight: 800;
+    color: white 
+}
+
+.img,
+.MuiSvgIcon-root {
+    margin-top: 60px;
+    margin-left: 80px;
+    width: 60px !important;
+    height: 60px !important;
+    color: white !important;
+}
