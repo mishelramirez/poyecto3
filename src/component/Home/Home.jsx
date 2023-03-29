@@ -74,94 +74,94 @@ export default function Home() {
 
             </div>
 
+//cuadro2
 
-
-            <div className="container">
+            <div className="container2">
                 <div className="contaheader">
-                    <div className="headerbarra"></div>
-                    <MenuIcon className='icon' />
+                    <div className="headerbarra2"></div>
+                    <MenuIcon className='icon2' />
                 </div>
-                <div className='container1' >
+                <div className='container11' >
 
-                    <div className='circulo1'></div>
+                    <div className='circulouno'></div>
 
-                    <div className='rayas'>
-                        <div className='raya'></div>
-                        <div className='raya1'></div>
-                        <div className='raya2'></div>
-                        <div className='raya3'></div>
+                    <div className='rayas1'>
+                        <div className='raya0'></div>
+                        <div className='raya11'></div>
+                        <div className='raya22'></div>
+                        <div className='raya33'></div>
                     </div>
                 </div>
-                <div className='container1' >
+                <div className='container11' >
 
-                    <div className='circulo2'></div>
+                    <div className='circulodos'></div>
 
-                    <div className='rayas'>
-                        <div className='raya'></div>
-                        <div className='raya1'></div>
-                        <div className='raya2'></div>
-                        <div className='raya3'></div>
-                    </div>
-                </div>
-
-                <div className='container1' >
-
-                    <div className='circulo3'></div>
-
-                    <div className='rayas'>
-                        <div className='raya'></div>
-                        <div className='raya1'></div>
-                        <div className='raya2'></div>
-                        <div className='raya3'></div>
-                    </div>
-
-
-                </div>
-                <div className='container1' >
-
-                    <div className='circulo1'></div>
-
-                    <div className='rayas'>
-                        <div className='raya'></div>
-                        <div className='raya1'></div>
-                        <div className='raya2'></div>
-                        <div className='raya3'></div>
-                    </div>
-                </div>
-                <div className='container1' >
-
-                    <div className='circulo2'></div>
-
-                    <div className='rayas'>
-                        <div className='raya'></div>
-                        <div className='raya1'></div>
-                        <div className='raya2'></div>
-                        <div className='raya3'></div>
+                    <div className='rayas1'>
+                        <div className='raya0'></div>
+                        <div className='raya11'></div>
+                        <div className='raya22'></div>
+                        <div className='raya33'></div>
                     </div>
                 </div>
 
-                <div className='container1' >
+                <div className='container11' >
 
-                    <div className='circulo3'></div>
+                    <div className='circulotres'></div>
 
-                    <div className='rayas'>
-                        <div className='raya'></div>
-                        <div className='raya1'></div>
-                        <div className='raya2'></div>
-                        <div className='raya3'></div>
+                    <div className='rayas1'>
+                        <div className='raya0'></div>
+                        <div className='raya11'></div>
+                        <div className='raya22'></div>
+                        <div className='raya33'></div>
                     </div>
 
 
                 </div>
-                <div className='container1' >
+                <div className='container11' >
 
-                    <div className='circulo1'></div>
+                    <div className='circulocuatro'></div>
 
-                    <div className='rayas'>
-                        <div className='raya'></div>
-                        <div className='raya1'></div>
-                        <div className='raya2'></div>
-                        <div className='raya3'></div>
+                    <div className='rayas1'>
+                        <div className='raya0'></div>
+                        <div className='raya11'></div>
+                        <div className='raya22'></div>
+                        <div className='raya33'></div>
+                    </div>
+                </div>
+                <div className='container11' >
+
+                    <div className='circulocinco'></div>
+
+                    <div className='rayas1'>
+                        <div className='raya0'></div>
+                        <div className='raya11'></div>
+                        <div className='raya22'></div>
+                        <div className='raya33'></div>
+                    </div>
+                </div>
+
+                <div className='container11' >
+
+                    <div className='circuloseis'></div>
+
+                    <div className='rayas1'>
+                        <div className='raya0'></div>
+                        <div className='raya11'></div>
+                        <div className='raya22'></div>
+                        <div className='raya33'></div>
+                    </div>
+
+
+                </div>
+                <div className='container11' >
+
+                    <div className='circulosiete'></div>
+
+                    <div className='rayas1'>
+                        <div className='raya0'></div>
+                        <div className='raya11'></div>
+                        <div className='raya22'></div>
+                        <div className='raya33'></div>
                     </div>
                 </div>
             </div>
