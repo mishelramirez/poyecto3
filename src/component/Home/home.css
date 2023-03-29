@@ -1,7 +1,10 @@
+.home{
+    position: relative;
+}
 .container {
     background: white;
-    width: 1000px;
-    height: 600px;
+    width: 900px;
+    height: 500px;
     margin-left: 50px;
     border-radius: 10px;
 }
@@ -42,8 +45,8 @@
 .circulo1,
 .circulo2,
 .circulo3 {
-    width: 100px;
-    height: 100px;
+    width: 60px;
+    height: 60px;
     border-radius: 100px;
     margin-right: 50px;
 }
@@ -60,46 +63,37 @@
     background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
 }
 
-
-.rayas {
-    margin-top: 10px;
-}
-
 .raya,
 .raya1,
 .raya2,
 .raya3 {
-    background: rgb(182, 177, 177);
+    background: rgb(216, 209, 209);
     border-radius: 5px;
     margin-bottom: 5px;
-
+ height: 10px;
 }
 
 .raya {
-    width: 150px;
-    height: 15px;
+    width: 150px; 
 }
 
 .raya1 {
     width: 400px;
-    height: 15px;
 }
 
 .raya2 {
     width: 350px;
-    height: 15px;
 }
 
 .raya3 {
     width: 300px;
-    height: 15px;
 }
 
 .circulitos {
     gap: 7px;
     display: flex;
     margin-left: 42px;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .circulos1,
@@ -107,7 +101,7 @@
 .circulos3,
 .circulos4,
 .circulos5 {
-    background: gray;
+    background: rgb(167, 160, 160);
     width: 30px;
     height: 30px;
     border-radius: 100px;
@@ -181,4 +175,14 @@
 .raya33{
     width: 150px;
     height: 8px;
+}
+/*posicionamiento uno enxima del otro*/
+.container{
+    position: absolute;
+}
+.container2{
+    position: absolute;
+    z-index: 2;
+    top: 166px;
+    left: 682px;
 }
