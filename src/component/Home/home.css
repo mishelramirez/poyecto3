@@ -1,11 +1,12 @@
 .home{
     position: relative;
+    display: flex;
 }
 .container {
     background: white;
-    width: 900px;
-    height: 500px;
-    margin-left: 50px;
+    width: 650px;
+    height: 400px;
+    margin-left: 20px;
     border-radius: 10px;
 }
 
@@ -14,32 +15,32 @@
     display: flex;
     background-color: rgb(17, 17, 46);
     border-radius: 10px;
-    height: 70px;
+    height: 50px;
 }
 
 .headerbarra {
     background-color: rgb(187, 214, 214);
-    width: 200px;
-    height: 22px;
+    width: 150px;
+    height: 17px;
     border-radius: 5px;
-    margin-left: 87px;
-    margin-top: 25px;
+    margin-left: 60px;
+    margin-top: 16px;
 }
 
 .icon {
 
     color: aliceblue !important;
-    margin-top: 6px;
-    margin-left: 592px;
+    margin-top: -4px;
+    margin-left: 350px;
 }
 
 /*home*/
 /*circulosprincipales*/
 .container1 {
     display: flex;
-    margin-left: 50px;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-bottom: 35px;
 }
 
 .circulo1,
@@ -48,7 +49,7 @@
     width: 60px;
     height: 60px;
     border-radius: 100px;
-    margin-right: 50px;
+    margin-right: 20px;
 }
 
 .circulo1 {
@@ -78,15 +79,15 @@
 }
 
 .raya1 {
-    width: 400px;
+    width: 300px;
 }
 
 .raya2 {
-    width: 350px;
+    width: 250px;
 }
 
 .raya3 {
-    width: 300px;
+    width: 200px;
 }
 
 .circulitos {
@@ -102,8 +103,8 @@
 .circulos4,
 .circulos5 {
     background: rgb(167, 160, 160);
-    width: 30px;
-    height: 30px;
+    width: 20px;
+    height: 20px;
     border-radius: 100px;
 }
 
@@ -111,29 +112,36 @@
 .container2 {
     background: aliceblue;
     margin: 0 auto;
-    width: 400px;
+    width: 300px;
     border-radius: 10px;
-    height: 600px;
+    height: 400px;
 }
-
+.contaheader2 {
+    display: flex;
+    background-color: rgb(17, 17, 46);
+    border-radius: 10px;
+    height: 45px;
+}
 .headerbarra2 {
-    width: 150px;
-    height: 20px;
+    width: 105px;
+    height: 12px;
     background: gray;
-    border-radius: 7px;
-    margin-top: 24px;
-    margin-left: 24px;
+    border-radius: 3px;
+    margin-top: 17px;
+    margin-left: 28px;
 }
 
 .icon2 {
     color: aliceblue !important;
-    margin-top: 3px;
-    margin-left: 131px;
+    margin-top: -5px;
+    margin-left: 80px;
+}
+.caja2{
+    margin-top: 40px;
 }
 .container11{
-    margin-left: 30px;
-    margin-top: 30px;
-    margin-bottom: 4px;
+    margin-left: 10px;
+    margin-top: 15px;
     display: flex;
 }
 
@@ -144,13 +152,13 @@
 .circulocinco,
 .circuloseis,
 .circulosiete {
-    width: 30px;
-    height: 30px;
+    width: 20px;
+    height: 20px;
     border-radius: 100px;
     background: rgb(223, 27, 27);
 }
 .rayas1{
-    margin-left: 20px;
+    margin-left: 10px;
 }
 .raya0,
 .raya11,
@@ -162,19 +170,19 @@
 }
 .raya0{
     width: 40px;
-    height: 8px;
+    height: 4px;
 }
 .raya11{
-    width: 250px;
-    height: 8px;
+    width: 200px;
+    height: 4px;
 }
 .raya22{
-    width: 200px;
-    height: 8px;
+    width: 150px;
+    height: 4px;
 }
 .raya33{
-    width: 150px;
-    height: 8px;
+    width: 100px;
+    height: 4px;
 }
 /*posicionamiento uno enxima del otro*/
 .container{
@@ -183,6 +191,6 @@
 .container2{
     position: absolute;
     z-index: 2;
-    top: 166px;
-    left: 682px;
+    top: 116px;
+    left: 483px;
 }

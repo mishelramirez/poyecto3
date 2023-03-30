@@ -75,12 +75,13 @@ export default function Home() {
             </div>
 
 //cuadro2
-
+        
             <div className="container2">
-                <div className="contaheader">
+                <div className="contaheader2">
                     <div className="headerbarra2"></div>
                     <MenuIcon className='icon2' />
                 </div>
+                <div className='caja2'>
                 <div className='container11' >
 
                     <div className='circulouno'></div>
@@ -162,6 +163,7 @@ export default function Home() {
                         <div className='raya11'></div>
                         <div className='raya22'></div>
                         <div className='raya33'></div>
+                    </div>
                     </div>
                 </div>
             </div>
