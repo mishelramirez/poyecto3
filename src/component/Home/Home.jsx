@@ -1,10 +1,12 @@
 
 import MenuIcon from '@mui/icons-material/Menu';
 import style from "./home.css"
+import Boton from '../Boton/Boton';
 
 export default function Home() {
     return (
         <div className='home'>
+           
             <div className="container">
                 <div className="contaheader">
                     <div className="headerbarra"></div>
@@ -75,13 +77,12 @@ export default function Home() {
             </div>
 
 //cuadro2
-        
+       
             <div className="container2">
                 <div className="contaheader2">
                     <div className="headerbarra2"></div>
                     <MenuIcon className='icon2' />
                 </div>
-                <div className='caja2'>
                 <div className='container11' >
 
                     <div className='circulouno'></div>
@@ -164,9 +165,15 @@ export default function Home() {
                         <div className='raya22'></div>
                         <div className='raya33'></div>
                     </div>
-                    </div>
                 </div>
+                
             </div>
+           
+            <div className='textoinformativo'>
+            <p className='titiloinfo'>Build The Community <br/>Yoyr Fans Will Love </p>
+            <p className='textoinfo'>Huddle re-imageines the way we build communities. You have<br/> a voicce,but so does your audience. Create connection with<br/>your users as you engage in genuine discussion.</p>
+              <Boton/>
+                </div>
         </div>
     )
 }

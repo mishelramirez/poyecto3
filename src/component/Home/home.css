@@ -1,13 +1,14 @@
-.home{
-    position: relative;
+.home {
     display: flex;
 }
+
 .container {
     background: white;
     width: 650px;
     height: 400px;
     margin-left: 20px;
     border-radius: 10px;
+    position: relative;
 }
 
 /*header*/
@@ -71,11 +72,11 @@
     background: rgb(216, 209, 209);
     border-radius: 5px;
     margin-bottom: 5px;
- height: 10px;
+    height: 10px;
 }
 
 .raya {
-    width: 150px; 
+    width: 150px;
 }
 
 .raya1 {
@@ -116,12 +117,14 @@
     border-radius: 10px;
     height: 400px;
 }
+
 .contaheader2 {
     display: flex;
     background-color: rgb(17, 17, 46);
     border-radius: 10px;
     height: 45px;
 }
+
 .headerbarra2 {
     width: 105px;
     height: 12px;
@@ -136,10 +139,8 @@
     margin-top: -5px;
     margin-left: 80px;
 }
-.caja2{
-    margin-top: 40px;
-}
-.container11{
+
+.container11 {
     margin-left: 10px;
     margin-top: 15px;
     display: flex;
@@ -157,40 +158,66 @@
     border-radius: 100px;
     background: rgb(223, 27, 27);
 }
-.rayas1{
+
+.rayas1 {
     margin-left: 10px;
 }
+
 .raya0,
 .raya11,
 .raya22,
-.raya33{
-    background: #dbd9d9;;
+.raya33 {
+    background: #dbd9d9;
+    ;
     border-radius: 3px;
     margin-bottom: 3px;
 }
-.raya0{
+
+.raya0 {
     width: 40px;
     height: 4px;
 }
-.raya11{
+
+.raya11 {
     width: 200px;
     height: 4px;
 }
-.raya22{
+
+.raya22 {
     width: 150px;
     height: 4px;
 }
-.raya33{
+
+.raya33 {
     width: 100px;
     height: 4px;
 }
+
 /*posicionamiento uno enxima del otro*/
-.container{
+.container {
     position: absolute;
 }
-.container2{
+
+.container2 {
     position: absolute;
     z-index: 2;
-    top: 116px;
+    top: 282px;
     left: 483px;
+}
+/*texto*/
+.textoinformativo{
+    z-index: 3;
+    position: absolute;
+    left: 800px;
+    margin-top: 34px;
+}
+.titiloinfo{
+    margin: 0 auto;
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: 600;
+}
+.textoinfo{
+    color: aliceblue;
+    font-size: 13px;
 }
