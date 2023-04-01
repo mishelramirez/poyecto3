@@ -1,0 +1,16 @@
+.footer {
+    margin-top: 400px;
+    text-align: right;
+    margin-right: 55px;
+    margin-bottom: 25px;
+}
+
+.botonfooter {
+    border: 2px solid white;
+    border-radius: 100px;
+}
+
+.botonfooter:hover {
+    background-color: blueviolet;
+    cursor: pointer;
+}

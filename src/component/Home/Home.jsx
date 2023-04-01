@@ -76,8 +76,6 @@ export default function Home() {
 
             </div>
 
-//cuadro2
-       
             <div className="container2">
                 <div className="contaheader2">
                     <div className="headerbarra2"></div>
