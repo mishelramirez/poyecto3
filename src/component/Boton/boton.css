@@ -1,0 +1,19 @@
+
+.boton{
+   margin-top: 20px;
+}
+.button{
+    width: 140px;
+    height: 50px;
+    border-radius: 60px;
+    font-size: 20px;
+    background: #df77df;
+    color: aliceblue;
+    border: none;   
+    cursor: pointer;
+}
+.button:hover{
+    background-color: aliceblue ;
+    color:#df77df ; 
+   
+}
